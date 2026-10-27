@@ -2,7 +2,7 @@
 
 ## Project Description
 
-This project contains a simple interest calculator written as a Bash script. It computes the simple interest based on user-provided input values.
+This project contains a simple interest calculator written as a Bash script. It computes simple interest based on user-provided input values.
 
 ## Simple Interest Formula
 
